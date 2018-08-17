@@ -1,0 +1,9 @@
+git config--global user.name "riya"
+git config--global user.email "riyarana5091@gmail.com"
+git init 
+git status
+git add filename
+git add foldername
+git add.
+git commit-am "My first commit."
+git remote add origin "URL"
